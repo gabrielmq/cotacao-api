@@ -1,6 +1,6 @@
 # API de Cotação
 
-Aplicação desenvolvida como desáfio proposto no curso Go Expert.
+Aplicação desenvolvida como desafio proposto no curso Go Expert.
 
 A aplicação possui um client e um server, o client chama o server no endpoint /cotacao, o server busca na api economia.awesomeapi.com.br a cotação do dolar, salva no sqlite e retorna a cotação para o client, que recebe a cotação e salva em um arquivo de texto chamado cotacao.txt
 
